@@ -3,7 +3,7 @@ title: "About"
 date: 2020-01-11T18:50:34-08:00
 ---
 **Senior Staff Engineer, Monitoring Infrastructure Development**  
-LinkedIn, Inc.
+LinkedIn, Inc.  
 January, 2020 - Present
 
 * The adventure begins...
