@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2020-01-11T18:50:34-08:00
-draft: true
 ---
 **Senior Staff Engineer, Monitoring Infrastructure Development**  
 LinkedIn, Inc.
