@@ -8,17 +8,17 @@ January, 2020 - Present
 
 * The adventure begins...
 
-**Senior Principal Software Development Engineer**
-Verizon Media  
-April, 2018 – January, 2020 (1 yr 10 mos)
+**Senior Principal Software Development Engineer**  
+Verizon Media (née Yahoo, Inc.)  
+April, 2018 – January, 2020 (1 yr, 10 mos)
 
 * Created and led the team for Panoptes, a Network Telemetry Ecosystem
 * Open sourced Panoptes - more at [https://getpanoptes.io](https://getpanoptes.io)
 * Spoke at [NANOG 74](https://www.youtube.com/watch?v=xYeoYQ3kfWE&list=PLO8DR5ZGla8jxTawBHH7Vdal0XSav_P6E&index=26&t=0s), ONUG, [SF Python](https://www.slideshare.net/VarunVarma15/scaling-with-python-sf-python-meetup-september-2017) and [SCALE 17x](https://www.youtube.com/watch?v=6O47yNPaw5E&feature=youtu.be&t=7798)
 
 **Prinicpal Software Development Engineer**  
-Oath, Inc.  
-November, 2015 – January, 2020 (4 yrs, 3 mos)
+Oath, Inc. (née Yahoo, Inc.)  
+November, 2015 – March, 2018 (2 yrs, 4 mos)
 
 * Deliver key components of the network telemetry and monitoring framework @ Yahoo!
 * Mentor and provide day to day management for team members
@@ -33,6 +33,7 @@ platform features and limitations
 
 **Principal Engineer, Premium Ads Production Engineering**  
 June, 2014 – November, 2015 (1 yr, 6 mos)
+
 * Oversee both day to day operations and provide technical strategic guidance to my group
 * Co-ordinate between my group and related groups within Yahoo! to take decisions about various technical aspects
 * Direct overall production engineering design to ensure capacity, reliability and performance of the Yahoo! Premium Ads system, which spans thousands of hosts and dozens of components
@@ -41,7 +42,7 @@ June, 2014 – November, 2015 (1 yr, 6 mos)
 
 
 **Architect, Premium Ads Production Engineering**  
-April, 2013 – June, 2014 (1 yr, 3 mos)
+April, 2013 – May, 2014 (2 yrs)
 
 * Overall design to ensure capacity, reliability and performance of the Yahoo! Premium Ads system, which spans thousands of hosts and dozens of components
 * Taking very broad directions from senior management and executive team and to turn them into specific actionable designs and plans for the team to execute
